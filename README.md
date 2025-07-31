@@ -6,7 +6,9 @@
 
 ---
 - ссылка проект [- t.me](https://t.me/HR_TMR_bot)
-
+https://github.com/timir25/ai_assistent/blob/main/2025-07-31_17-22-21.png
+https://github.com/timir25/ai_assistent/blob/main/2025-07-31_17-22-34.png
+ 
 ## Цели проекта
 
 1. **Автоматизация первичного отбора**:
