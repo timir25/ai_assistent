@@ -6,8 +6,10 @@
 
 ---
 - ссылка проект [- t.me](https://t.me/HR_TMR_bot)
-[https://github.com/timir25/ai_assistent/blob/main/2025-07-31_17-22-21.png](https://github.com/timir25/ai_assistent/blob/main/2025-07-31_17-22-21.png?raw=true)
-[https://github.com/timir25/ai_assistent/blob/main/2025-07-31_17-22-34.png](https://github.com/timir25/ai_assistent/blob/main/2025-07-31_17-22-34.png?raw=true)
+[- фото](https://github.com/timir25/ai_assistent/blob/main/2025-07-31_17-22-21.png)
+[-фото2](https://github.com/timir25/ai_assistent/blob/main/2025-07-31_17-22-34.png)
+
+
  
 ## Цели проекта
 
